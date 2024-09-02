@@ -1,6 +1,12 @@
+# 備考
+
+このパッケージは、ローカルビルドして、使用しています。
+https://infltech.com/articles/Qd8UZv
+
 # ballcap for TypeScript
 
 <img src="https://github.com/1amageek/Ballcap-iOS/blob/master/Ballcap.png" width="100%">
+
 
 Ballcap is a database schema design framework for Cloud Firestore. This repository supports the __WEB__ and __Admin__.
 
